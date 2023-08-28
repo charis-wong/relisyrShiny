@@ -1,0 +1,12 @@
+name: ReLiSyR-MND
+title: ReLiSyR-MND
+username: camarades
+account: camarades
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9695755
+bundleId: 7616714
+url: https://camarades.shinyapps.io/ReLiSyR-MND/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

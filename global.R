@@ -1,0 +1,10 @@
+library(googlesheets4)
+library(shiny)
+library(shinydashboard)
+library(dplyr)
+library(shinyWidgets)
+library(DT)
+library(lubridate)
+library(shinycssloaders)
+
+source('configure.R')

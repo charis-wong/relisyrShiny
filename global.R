@@ -6,5 +6,6 @@ library(shinyWidgets)
 library(DT)
 library(lubridate)
 library(shinycssloaders)
+library(textclean)
 
 source('configure.R')
